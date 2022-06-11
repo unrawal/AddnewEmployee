@@ -1,0 +1,11 @@
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\bin\Debug\LearningC.exe.config
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\bin\Debug\LearningC.exe
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\bin\Debug\LearningC.pdb
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\obj\Debug\LearningC.csproj.AssemblyReference.cache
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\obj\Debug\LearningC.csproj.SuggestedBindingRedirects.cache
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\obj\Debug\LearningC.csproj.CoreCompileInputs.cache
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\obj\Debug\LearningC.exe
+C:\Users\DevAdmin\source\repos\C#practice\LearningC\LearningC\obj\Debug\LearningC.pdb
+C:\Users\DevAdmin\source\repos\C#practice\learningC\LearningC\bin\Debug\ClassLibrary2.dll
+C:\Users\DevAdmin\source\repos\C#practice\learningC\LearningC\bin\Debug\ClassLibrary2.pdb
+C:\Users\DevAdmin\source\repos\C#practice\learningC\LearningC\obj\Debug\LearningC.csproj.CopyComplete
